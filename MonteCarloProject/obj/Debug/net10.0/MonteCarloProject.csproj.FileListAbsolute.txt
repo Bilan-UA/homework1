@@ -1,0 +1,14 @@
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\bin\Debug\net10.0\MonteCarloProject.exe
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\bin\Debug\net10.0\MonteCarloProject.deps.json
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\bin\Debug\net10.0\MonteCarloProject.runtimeconfig.json
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\bin\Debug\net10.0\MonteCarloProject.dll
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\bin\Debug\net10.0\MonteCarloProject.pdb
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\MonteCarloProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\MonteCarloProject.AssemblyInfoInputs.cache
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\MonteCarloProject.AssemblyInfo.cs
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\MonteCarloProject.csproj.CoreCompileInputs.cache
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\MonteCarloProject.dll
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\refint\MonteCarloProject.dll
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\MonteCarloProject.pdb
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\MonteCarloProject.genruntimeconfig.cache
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\MonteCarloProject\obj\Debug\net10.0\ref\MonteCarloProject.dll
